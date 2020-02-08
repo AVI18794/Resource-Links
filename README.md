@@ -1,9 +1,9 @@
 # Resource-Links
 ## Statistics and Mathematics
 ---
-1. [**Statistics By Brandon Foltz**](https://www.youtube.com/user/BCFoltz/playlists "Brandon Foltz")
+1. [**Statistics By Brandon Foltz**](https://www.youtube.com/user/BCFoltz/playlists "Brandon Foltz")Highly Recommended
 
-1. [**Stat Quest  with Josh Starmer**](https://www.youtube.com/user/joshstarmer/playlists "Stat Quest")
+1. [**Stat Quest  with Josh Starmer**](https://www.youtube.com/user/joshstarmer/playlists "Stat Quest")Highly Recommended
 
 1. [**Calculus by Grant Sanderson 3Blue1Brown**](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr "Essence of Calculus") 
 
