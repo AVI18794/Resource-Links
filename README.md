@@ -9,19 +9,19 @@
 
 1. [**Differential Equation by MIT**](https://www.youtube.com/watch?v=ZvL88xqYSak&list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG,"Differential Equations by MIT")
 
-1.[**Differential Equations Visualizations By 3Blue1Brown**](https://www.youtube.com/watch?v=p_di4Zn4wz4&list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6,"Differential Equations")
+1. [**Differential Equations Visualizations By 3Blue1Brown**](https://www.youtube.com/watch?v=p_di4Zn4wz4&list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6,"Differential Equations")
 
-1.[**Linear Algebra by Grant Sanderson  3Blue1Brown**](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab,"Essence of Linear Algebra")
+1. [**Linear Algebra by Grant Sanderson  3Blue1Brown**](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab,"Essence of Linear Algebra")
 
-1.[**Maths Series By Professor Leonard**](https://www.youtube.com/user/professorleonard57/playlists,"Math Lecture Series By Professor Leonard")
+1. [**Maths Series By Professor Leonard**](https://www.youtube.com/user/professorleonard57/playlists,"Math Lecture Series By Professor Leonard")
 
-1.[**Video Series on Maths**](https://www.youtube.com/channel/UCiTjCIT_9EXV1Wp1cY0zaUA/playlists,"Don't Memorize Video Series")
+1. [**Video Series on Maths**](https://www.youtube.com/channel/UCiTjCIT_9EXV1Wp1cY0zaUA/playlists,"Don't Memorize Video Series")
 
-1.[**Linear Algebra by MIT**](https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PL221E2BBF13BECF6C,"Linear Algebra")
+1. [**Linear Algebra by MIT**](https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PL221E2BBF13BECF6C,"Linear Algebra")
 
-1.[**Linear Algebra By Trefor Bazett**](https://www.youtube.com/watch?v=ZKUqtErZCiU&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6,"Linear Algebra By Trefor Bazett")
+1. [**Linear Algebra By Trefor Bazett**](https://www.youtube.com/watch?v=ZKUqtErZCiU&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6,"Linear Algebra By Trefor Bazett")
 
-1.[**Linear Algebra By Professor Dave**](https://www.youtube.com/watch?v=csgNflj69-Y&list=PLybg94GvOJ9En46TNCXL2n6SiqRc_iMB8,"Linear Algebra By Professor Dave")
+1. [**Linear Algebra By Professor Dave**](https://www.youtube.com/watch?v=csgNflj69-Y&list=PLybg94GvOJ9En46TNCXL2n6SiqRc_iMB8,"Linear Algebra By Professor Dave")
 
 ---
 ---
@@ -36,6 +36,6 @@
 ---
 1.[**Numberphile**](https://www.youtube.com/user/numberphile,"Numberphile")
 
-1.[**Kurzgesagt**](https://www.youtube.com/user/Kurzgesagt,"Kurzgesagt")
+1. [**Kurzgesagt**](https://www.youtube.com/user/Kurzgesagt,"Kurzgesagt")
 
-1.[**Computerphile**](https://www.youtube.com/user/Computerphile,"Computerphile")
+1. [**Computerphile**](https://www.youtube.com/user/Computerphile,"Computerphile")
