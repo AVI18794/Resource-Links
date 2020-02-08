@@ -1,13 +1,13 @@
 # Resource-Links
 ## Statistics and Mathematics
 ---
-1.[**Statistics By Brandon Foltz**](https://www.youtube.com/user/BCFoltz/playlists,"Statistics Playlist By Brandon Foltz")
+1. [**Statistics By Brandon Foltz**](https://www.youtube.com/user/BCFoltz/playlists,"Statistics Playlist By Brandon Foltz")
 
-1.[**Stat Quest  with Josh Starmer**](https://www.youtube.com/user/joshstarmer/playlists,"Stat Quest  with Josh Starmer")
+1. [**Stat Quest  with Josh Starmer**](https://www.youtube.com/user/joshstarmer/playlists,"Stat Quest  with Josh Starmer")
 
-1.[**Calculus by Grant Sanderson 3Blue1Brown**](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr,"Essence of Calculus") 
+1. [**Calculus by Grant Sanderson 3Blue1Brown**](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr,"Essence of Calculus") 
 
-1.[**Differential Equation by MIT**](https://www.youtube.com/watch?v=ZvL88xqYSak&list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG,"Differential Equations by MIT")
+1. [**Differential Equation by MIT**](https://www.youtube.com/watch?v=ZvL88xqYSak&list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG,"Differential Equations by MIT")
 
 1.[**Differential Equations Visualizations By 3Blue1Brown**](https://www.youtube.com/watch?v=p_di4Zn4wz4&list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6,"Differential Equations")
 
