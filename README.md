@@ -24,17 +24,17 @@
 1. [**Linear Algebra By Professor Dave**](https://www.youtube.com/watch?v=csgNflj69-Y&list=PLybg94GvOJ9En46TNCXL2n6SiqRc_iMB8,"Linear Algebra By Professor Dave")
 
 ---
----
+
 ## Deep Learning
 
-1.[**Intro to Deep Learning by MIT**](https://www.youtube.com/watch?v=5v1JnYv_yWs&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI,"Intro to Deep Learning)
+1. [**Intro to Deep Learning by MIT**](https://www.youtube.com/watch?v=5v1JnYv_yWs&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI,"Intro to Deep Learning)
 
 1. [**Sentdex**](https://www.youtube.com/user/sentdex,"Sentdex")
 
 ---
 ## Some Other Interesting Channels Link
 ---
-1.[**Numberphile**](https://www.youtube.com/user/numberphile,"Numberphile")
+1. [**Numberphile**](https://www.youtube.com/user/numberphile,"Numberphile")
 
 1. [**Kurzgesagt**](https://www.youtube.com/user/Kurzgesagt,"Kurzgesagt")
 
