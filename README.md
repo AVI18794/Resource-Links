@@ -1,7 +1,7 @@
 # Resource-Links
 ## Statistics and Mathematics
 ---
-1. [**Statistics By Brandon Foltz**](https://www.youtube.com/user/BCFoltz/playlists,"Statistics Playlist By Brandon Foltz")
+1. [**Statistics By Brandon Foltz**] (https://www.youtube.com/user/BCFoltz/playlists,"Statistics Playlist By Brandon Foltz")
 
 1. [**Stat Quest  with Josh Starmer**](https://www.youtube.com/user/joshstarmer/playlists,"Stat Quest  with Josh Starmer")
 
@@ -27,7 +27,7 @@
 
 ## Deep Learning
 
-1. [**Intro to Deep Learning by MIT**](https://www.youtube.com/watch?v=5v1JnYv_yWs&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI,"Intro to Deep Learning)
+1. [**Intro to Deep Learning by MIT**] (https://www.youtube.com/watch?v=5v1JnYv_yWs&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI,"Intro to Deep Learning)
 
 1. [**Sentdex**](https://www.youtube.com/user/sentdex,"Sentdex")
 
